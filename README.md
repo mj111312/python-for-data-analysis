@@ -157,3 +157,4 @@ Lesson	|	Title	|	Readings	|	Topics	|	Assignment
 [19](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson19.ipynb)	|	Modules and Classes	|	Shaw: [Ex40-52](https://learnpythonthehardway.org/python3/ex40.html)	|	Packaging your code so you and others can use it again	|	--
 [20](https://github.com/cuttlefishh/python-for-data-analysis/blob/master/lessons/lesson20.md)	|	Git and GitHub	|	[GitHub Guides](https://guides.github.com)	|	Sharing your code in a public GitHub repository	|	Final Project
 
+--------------------------Thank You !----------------------
